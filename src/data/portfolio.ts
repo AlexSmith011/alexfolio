@@ -17,7 +17,7 @@ export interface ExperienceItem {
   articleLabel?: string;
   notice?: string;
   skills: string[];
-  order: int;
+  order: number;
 }
 
 export interface Degree {
