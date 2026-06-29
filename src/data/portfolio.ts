@@ -317,7 +317,7 @@ export const experiences: Record<ExperienceCategory, ExperienceItem[]> = {
       id: "ai-cad",
       category: "research",
       title: "AI CAD Research Assistant",
-      organization: "CMU Mechanical Engineering Department",
+      organization: "CMU Mechanical Engineering Department — Visual Design and Engineering Lab",
       period: "January 2026 – August 2026",
       sortDate: "2026-01",
       role: "Pittsburgh, PA",
