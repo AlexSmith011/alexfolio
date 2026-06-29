@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="500" viewBox="0 0 400 500" fill="none">
+  <rect width="400" height="500" rx="12" fill="#f4e7ea"/>
+  <circle cx="200" cy="180" r="70" fill="#e5d1d4"/>
+  <ellipse cx="200" cy="380" rx="110" ry="90" fill="#e5d1d4"/>
+  <text x="200" y="460" text-anchor="middle" fill="#7c5c5f" font-family="Inter, sans-serif" font-size="14">Your headshot</text>
+</svg>
