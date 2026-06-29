@@ -347,7 +347,7 @@ export const experiences: Record<ExperienceCategory, ExperienceItem[]> = {
       sortDate: "2025-01",
       role: "Pittsburgh, PA",
       description:
-        "Designed DFMA-focused mechanical components for Johnny B. Root, an award-winning autonomous reforestation robot that earned the Excellence in Regenerative Agriculture award at the 2025 Farm Robotics Challenge.",
+        "Designed DFMA-focused mechanical components an award-winning autonomous reforestation robot that earned the Excellence in Regenerative Agriculture award at the 2025 Farm Robotics Challenge.",
       longDescription:
         "As part of Appleseed Labs in the Kantor Lab, designed and validated DFMA-focused mechanical components for Johnny B. Root — an autonomous reforestation robot built for the 2025 Farm Robotics Challenge. The platform uses an auger and high-precision arm to drill and place seedlings, with LiDAR-based obstacle detection and a vision-based person detector for safe field operation. Our team received the Excellence in Regenerative Agriculture award out of 22 competing teams for outstanding commitment to environmental sustainability and ecosystem health.",
       image: "/images/experiences/robotics-research/robotics-institute-logo.jpg",
