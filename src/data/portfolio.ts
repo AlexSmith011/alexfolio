@@ -159,7 +159,6 @@ export const experiences: Record<ExperienceCategory, ExperienceItem[]> = {
         "Owned early-stage Siemens NX CAD design across five performance-vehicle subsystems (exhaust, intake, brake, power unit, suspension), taking concepts from initial geometry through design review. Balanced packaging, manufacturability, and cost constraints to improve clearances and reduce mass, part count, and assembly time while meeting all program requirements and engineering standards.",
       image: "/images/experiences/gm/gm-logo.jpg",
       images: [
-        "/images/experiences/gm/gm-logo.jpg",
         "/images/experiences/gm/escalade-engine-bay.png",
         "/images/experiences/gm/ct5-exhaust.png",
         "/images/experiences/gm/ct5-exhaust-tips.png",
@@ -182,7 +181,6 @@ export const experiences: Record<ExperienceCategory, ExperienceItem[]> = {
         "Co-led modifications to satellite antenna and Wi-Fi connectivity through design review, evaluating LEO satellite, antenna, and in-flight connectivity hardware against system requirements. Integrated engineering data across aircraft, LEO satellites, and antenna systems into a single source of truth, distilling satellite-communications and power architectures for cross-functional and executive stakeholders.",
       image: "/images/experiences/boeing/boeing-logo.jpg",
       images: [
-        "/images/experiences/boeing/boeing-logo.jpg",
         "/images/experiences/boeing/viasat-esa.png",
         "/images/experiences/boeing/leo-meo-geo.png",
         "/images/experiences/boeing/first-class-interior.png",
@@ -211,7 +209,6 @@ export const experiences: Record<ExperienceCategory, ExperienceItem[]> = {
         "Leading development of metal additively manufactured uprights, gearsets, hubs, cooling sleeves, and brakes. Creating and optimizing a 2-stage, fixed planetary gearset with a maximum input speed of 20k rpm using KISSsoft software.",
       image: "/images/experiences/powertrain/cmr-logo.jpg",
       images: [
-        "/images/experiences/powertrain/cmr-logo.jpg",
         "/images/experiences/powertrain/exploded-stackup.png",
         "/images/experiences/powertrain/topology-upright.png",
         "/images/experiences/powertrain/cut-view.png",
@@ -232,7 +229,6 @@ export const experiences: Record<ExperienceCategory, ExperienceItem[]> = {
         "Designed, validated, and manufactured the steering system for a driverless electric FSAE racecar from first principles using SolidWorks CAD for modeling and clearance checks, Ansys FEA for stress analysis, and Fusion 360 CAM for machining. Developed and experimentally validated Ackermann geometry and steering effort models, achieving >95% target accuracy and <10% prediction error; partnered with autonomous systems engineers to ensure robust driverless vehicle handling, contributing to a six-place gain in autocross performance.",
       image: "/images/experiences/steering/cmr-26x.jpg",
       images: [
-        "/images/experiences/steering/cmr-26x.jpg",
         "/images/experiences/steering/full-view.png",
         "/images/experiences/steering/installed.png",
         "/images/experiences/steering/steering-wheel.png",
@@ -259,7 +255,7 @@ export const experiences: Record<ExperienceCategory, ExperienceItem[]> = {
       id: "combat-robotics",
       category: "clubs",
       title: "Chassis Design Engineer",
-      organization: "Carnegie Mellon Combat Robotics",
+      organization: "Carnegie Mellon Robotics Club - Combat Robotics",
       period: "August 2025 – May 2026",
       sortDate: "2025-08",
       role: "Pittsburgh, PA",
@@ -288,7 +284,6 @@ export const experiences: Record<ExperienceCategory, ExperienceItem[]> = {
         "Reduced subsystem mass by nearly 25% through improved material selection and design, staying within 0.05 of factor-of-safety targets. Created technical drawings with GD&T and detailed cost reporting for all suspension subsystems for professional review; all drawings were verified and accepted, and cost was reduced by 30% compared to the prior year.",
       image: "/images/experiences/suspension/cmr-25e.jpg",
       images: [
-        "/images/experiences/suspension/cmr-25e.jpg",
         "/images/experiences/suspension/front-pushrod.png",
         "/images/experiences/suspension/rear-pushrod.png",
         "/images/experiences/suspension/calculations.png",
@@ -332,7 +327,6 @@ export const experiences: Record<ExperienceCategory, ExperienceItem[]> = {
         "Collaborated with Lockheed Martin to develop an end-to-end pipeline to turn natural language into fully parameterized and optimized CAD for aerospace components utilizing AI LLMs.",
       image: "/images/experiences/ai-cad/cmu-me-logo.jpg",
       images: [
-        "/images/experiences/ai-cad/cmu-me-logo.jpg",
         "/images/experiences/ai-cad/rear-wing.png",
         "/images/experiences/ai-cad/rear-wing-airfoils.png",
         "/images/experiences/ai-cad/planetary-gearset.png",
@@ -358,7 +352,6 @@ export const experiences: Record<ExperienceCategory, ExperienceItem[]> = {
         "As part of Appleseed Labs in the Kantor Lab, designed and validated DFMA-focused mechanical components for Johnny B. Root — an autonomous reforestation robot built for the 2025 Farm Robotics Challenge. The platform uses an auger and high-precision arm to drill and place seedlings, with LiDAR-based obstacle detection and a vision-based person detector for safe field operation. Our team received the Excellence in Regenerative Agriculture award out of 22 competing teams for outstanding commitment to environmental sustainability and ecosystem health.",
       image: "/images/experiences/robotics-research/robotics-institute-logo.jpg",
       images: [
-        "/images/experiences/robotics-research/robotics-institute-logo.jpg",
         "/images/experiences/robotics-research/full-robot.png",
         "/images/experiences/robotics-research/robot-drilling.png",
         "/images/experiences/robotics-research/linear-actuator-drill.png",
