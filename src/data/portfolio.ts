@@ -17,6 +17,7 @@ export interface ExperienceItem {
   articleLabel?: string;
   notice?: string;
   skills: string[];
+  order: int;
 }
 
 export interface Degree {
@@ -166,6 +167,7 @@ export const experiences: Record<ExperienceCategory, ExperienceItem[]> = {
         "/images/experiences/gm/escalade-suspension.png",
       ],
       skills: ["NX CAD", "DfM", "Design Review", "Performance Vehicle Design"],
+      order: 1,
     },
     {
       id: "boeing-intern",
@@ -192,6 +194,7 @@ export const experiences: Record<ExperienceCategory, ExperienceItem[]> = {
         "Tableau",
         "Excel",
       ],
+      order: 7,
     },
   ],
   clubs: [
@@ -214,6 +217,7 @@ export const experiences: Record<ExperienceCategory, ExperienceItem[]> = {
         "/images/experiences/powertrain/cut-view.png",
       ],
       skills: ["KISSsoft", "Additive Manufacturing", "Powertrain Design", "nTopology"],
+      order: 2,
     },
     {
       id: "fsae-steering",
@@ -250,6 +254,7 @@ export const experiences: Record<ExperienceCategory, ExperienceItem[]> = {
         "Vehicle Dynamics",
         "GD&T",
       ],
+      order: 4,
     },
     {
       id: "combat-robotics",
@@ -269,6 +274,7 @@ export const experiences: Record<ExperienceCategory, ExperienceItem[]> = {
         "/images/experiences/combat-robotics/chassis-exposed.png",
       ],
       skills: ["SolidWorks", "Ansys FEA", "Mechanism Design", "DfM"],
+      order: 6,
     },
     {
       id: "fsae-suspension",
@@ -291,6 +297,7 @@ export const experiences: Record<ExperienceCategory, ExperienceItem[]> = {
         "/images/experiences/suspension/lathe.png",
       ],
       skills: ["SolidWorks", "GD&T", "DfM", "CNC Lathe", "Structural Analysis"],
+      order: 8,
     },
   ],
   research: [
@@ -312,6 +319,7 @@ export const experiences: Record<ExperienceCategory, ExperienceItem[]> = {
       articleLabel: "A. D. Rollett — Materials Science & Engineering, Carnegie Mellon University",
       notice: "Planned for the future",
       skills: ["Additive Manufacturing", "Materials Science", "Metal AM"],
+      order: 3,
     },
     {
       id: "ai-cad",
@@ -337,6 +345,7 @@ export const experiences: Record<ExperienceCategory, ExperienceItem[]> = {
       articleUrl: "https://levburkara.github.io/",
       articleLabel: "Visual Design and Engineering Lab — Carnegie Mellon University",
       skills: ["Python", "LLMs", "CAD Automation", "Aerospace Design"],
+      order: 5,
     },
     {
       id: "robotics-institute",
@@ -360,6 +369,7 @@ export const experiences: Record<ExperienceCategory, ExperienceItem[]> = {
         "https://www.ri.cmu.edu/cmus-autonomous-reforestation-robot-earns-national-award/",
       articleLabel: "CMU Robotics Institute — Autonomous Reforestation Robot Earns National Award",
       skills: ["DFMA", "SolidWorks", "3D Printing", "Robotic Systems"],
+      order: 9,
     },
   ],
 };
