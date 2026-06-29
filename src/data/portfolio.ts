@@ -74,10 +74,9 @@ export const siteConfig = {
   homeBio: {
     greeting: "Hello,",
     paragraphs: [
-      "My name is Alex Smith, and I am a mechanical engineering student at Carnegie Mellon University in Pittsburgh, PA. I am currently on track to finish my undergraduate in May 2027, and my graduate degree in May 2028.",
-      "I am passionate about engineering projects where metrics and performance matter, where going above and beyond creates measurable results. It is for this reason that I have become deeply involved with Carnegie Mellon Racing, my university's FSAE team. Through FSAE, I have been able to nurture my passions for performance and motorsport, while growing as an engineer in a way that classes could never teach me. I gained hands-on experience in design, analysis, and manufacturing, that will help me wherever I take my career.",
-      "Additionally, I have gained professional experience through my internships at General Motors and Boeing. At General Motors, I experienced Design Engineering while supporting Chassis and Thermal Under Hood departments. This allowed me to learn about the design process in the real world, while having to consider extensive requirements, fitting chassis and under-hood requirements. During my time at Boeing, I engaged in the world of aerospace, learning about LEO satellite technology and onboard connectivity hardware. From this, I gained a great interest in and respect for space and satellite technology.",
-      "I'm always looking for more experiences that can help me explore my interests and the field of mechanical engineering. If you believe you can help with that mission or have any questions, please don't hesitate to email, call, or direct message me on LinkedIn, all linked below.",
+      "My name is Alex Smith, and I am a mechanical engineering student at Carnegie Mellon University pursuing my B.S. (May 2027) and M.S. (May 2028).",
+      "I enjoy engineering challenges where performance and measurable results matter. Through Carnegie Mellon Racing's Formula SAE team, I've gained hands-on experience in design, analysis, manufacturing, and vehicle development while pursuing my passion for motorsport. I've also expanded my perspective through internships at General Motors and Boeing, working on automotive design engineering and aerospace connectivity systems.",
+      "I'm always looking for opportunities to learn, build, and solve challenging engineering problems. If you'd like to connect, feel free to reach out through email or LinkedIn below.",
     ],
     signoff: "Best,",
     signoffName: "Alex",
